@@ -14,3 +14,13 @@ Tkinter,
 locale, 
 
 *note the code contains images which are attached as separate files, they need to be saved in the same directory as the .py file
+
+here is a little demo:
+
+![calc1](https://user-images.githubusercontent.com/112956707/207552535-74912df7-5bcc-4bb6-9b66-d744648b6011.PNG)
+
+
+---------------------------
+
+
+![calc2](https://user-images.githubusercontent.com/112956707/207552596-869456cd-0fa0-44c9-a9f1-fe390c473ff6.png)
